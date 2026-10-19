@@ -32,6 +32,6 @@ this organization is where we store our Code, CAD files, and build docs.
 We're at the very beginning, so this is the best time to get involved and help shape what the club becomes, or whether it happens at all.
 
 - 🌐 Website: [coming soon]
-- 📸 Instagram: [coming soon]
+- 📸 Instagram: https://www.instagram.com/yucombatrobotics/
 - 💬 Discord: [coming soon]
 - ✉️ Email: yucombatrobots@gmail.com
